@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "漁夫王"
+theme = "beautifulhugo"
+[params]
+hasNavbarBrand = false
+[author]
+name = "Ian Tay"
+[[menu.main]]
+  name = "posts"
+  title = "blog section"
+  weight = -110
+  identifier = "blog"
+  url = "/posts"
