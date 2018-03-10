@@ -8,21 +8,19 @@ menu:
     weight: 130
     url: "/"
 ---
-# Ian Tay
-Software engineer on Google Cloud
+## about
 
-Especially interested in embedded systems, lazy functional programming, donuts
+Personal musings on tech, life, books.
 
-B.SE Electrical and Computer Engineering, Duke University
+Written by **Ian Tay**.
 
----
+Software engineer in Seattle. Especially interested in embedded systems, lazy functional programming, donuts
 
-## contact
+I'm on an exercise to gather personal feedback, if you have worked with me or known me for a while, give me feedback [here](https://airtable.com/shrJI8p0amSdZId0b).
 
-[CV 📜](cv.pdf) | [github](https://github.com/chronologos)
+[CV 📜](cv.pdf) | [github](https://github.com/chronologos) | [email-base64](https://play.golang.org/p/kI6deshYi5x) • `eWl5YW50YXlAZ21haWwuY29t`
 
----
-## pgp
+### pgp
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

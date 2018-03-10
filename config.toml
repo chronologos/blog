@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://chronologos.github.io"
 languageCode = "en-us"
-title = "漁夫王"
+title = "Ian"
 theme = "beautifulhugo"
 [params]
 hasNavbarBrand = false
@@ -12,3 +12,7 @@ name = "Ian Tay"
   weight = -110
   identifier = "blog"
   url = "/posts"
+[blackfriday]
+  extension = ["footnotes"]
+[taxonomies]
+  tag = "tags"

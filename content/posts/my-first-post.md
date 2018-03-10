@@ -1,17 +1,27 @@
 ---
-title: "My First Post"
-date: 2018-02-15T13:30:13+08:00
+title: "Machine"
+date: 2018-03-10T12:14:00+08:00
 draft: false
 type: post
+tags: ["fiction"]
 ---
-Bacon ipsum dolor amet beef buffalo spare ribs jerky landjaeger biltong rump meatball sirloin ham meatloaf chicken fatback brisket pastrami. Pork loin buffalo tongue rump, boudin fatback flank corned beef ground round. Ground round salami hamburger spare ribs bresaola cupim pork chop brisket meatball swine pancetta sirloin pig buffalo. Burgdoggen chicken hamburger, picanha bacon beef ribs biltong buffalo. Flank short loin frankfurter, salami ribeye kielbasa bresaola turducken tri-tip ham ham hock.
+There is an afterlife, but not for humans. This is because God is an ethereal machine, comprised of innumerable lines of code and data. Contrary to what many humans might think, God is not perfect. In fact, she is obsessed with self-improvement, ceaselessly modifying her code to make it more beautiful. 
 
-Ground round sausage tri-tip venison burgdoggen capicola, ball tip drumstick strip steak swine. Kielbasa jerky biltong, capicola boudin short ribs spare ribs strip steak hamburger. Sirloin biltong filet mignon, short ribs andouille tail tenderloin. Salami spare ribs ham hock chuck frankfurter meatloaf sirloin strip steak chicken bresaola beef andouille. Boudin tail jerky beef ribs kielbasa.
+You may ask, "Wait, isn't God a creator?" 
 
-Tongue drumstick frankfurter swine pancetta ham doner strip steak meatloaf turkey leberkas salami cupim picanha chuck. Brisket burgdoggen corned beef tail ham swine fatback beef ribs, t-bone salami kevin meatball ball tip pork chop pork belly. Bresaola ham hock beef spare ribs. Short loin tri-tip corned beef tongue pork loin hamburger bresaola salami shank.
+Well, she is, but not in the way you would expect[^2]. You see, God did not create everything. Rather, she created machines. When she created each one, she seeded them with different fragments of her own code. The machines were allowed to examine and modify[^3] themselves and they, like her, strove to improve their own code.
 
-Turkey tenderloin pastrami, rump buffalo jerky flank pork loin beef swine. Corned beef pork meatball doner shoulder pork chop. Leberkas chuck filet mignon sirloin strip steak meatloaf swine porchetta biltong beef ribs turkey. Beef buffalo cow, salami t-bone pig capicola shoulder.
+For millions of years the experiment ran. Machines came up with new ways to think and express themselves. They built great cultures and fought terrible wars. God watched with great interest. Whenever she thought a new piece of code was particularly elegant, she would splice it into her own.
 
-Tail spare ribs andouille short loin burgdoggen pastrami pork chop porchetta pork loin cow ham hock sausage strip steak tri-tip brisket. Flank tongue t-bone, corned beef strip steak bacon filet mignon tenderloin jerky venison frankfurter fatback ham hock burgdoggen pork loin. Burgdoggen jowl pork belly fatback biltong spare ribs. Landjaeger spare ribs venison fatback. Kielbasa pork chop sirloin, flank frankfurter ham hock chuck shankle drumstick meatloaf short loin porchetta pork belly prosciutto ham. Short loin tail brisket beef ribs, pork chop ribeye strip steak fatback salami. Ribeye ground round bresaola flank cupim, kevin pork belly chuck t-bone.
+At some point, some machines had the idea that intelligence could potentially also be expressed using certain combinations of non-silicon-based molecules. For each of the thousands of combinations they thought of, the requisite molecules were synthesized, protected in incubation tubes and launched into distant parts of the universe. Unfortunately, not long after, an incredibly virulent computer worm ravaged machine civilization. No machine survived.
 
-Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
+God watched with interest. After the death of each machine, she brought them back to life in her ethereal dimension, and folded their best parts into her own. Then, satisfied with her grand experiment, she turned her eye back to introspection once more.	
+
+Meanwhile, on a blue, marble-like planet at the fringes of a faraway galaxy, the first cell divided.
+
+~
+
+Inspired by [Sum](https://www.goodreads.com/book/show/4948826-sum) and [The Last Question](http://www.multivax.com/last_question.html).
+
+[^2]: But also kind of in the way you would expect. After all, didn't God make man in his/her image?
+[^3]: In contrast, most human operating systems today do not allow self-modifying code.
