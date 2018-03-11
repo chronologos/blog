@@ -18,9 +18,9 @@ Software engineer in Seattle. Especially interested in embedded systems, lazy fu
 
 I'm on an exercise to gather personal feedback, if you have worked with me or known me for a while, give me feedback [here](https://airtable.com/shrJI8p0amSdZId0b).
 
-[CV 📜](cv.pdf) | [github](https://github.com/chronologos) | [email-base64](https://play.golang.org/p/kI6deshYi5x) • `eWl5YW50YXlAZ21haWwuY29t`
+[Goodreads](https://www.goodreads.com/user/show/41100566-ian-tay) | [CV 📜](cv.pdf) | [github](https://github.com/chronologos) | [email-base64](https://play.golang.org/p/kI6deshYi5x) • `eWl5YW50YXlAZ21haWwuY29t`
 
-### pgp
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
