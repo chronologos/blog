@@ -1,6 +1,6 @@
 baseURL = "https://chronologos.github.io"
 languageCode = "en-us"
-title = "Ian"
+title = "chronologos"
 theme = "beautifulhugo"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
