@@ -8,21 +8,10 @@ menu:
     weight: 130
     url: "/"
 ---
-From Ancient Greek khrónos meaning time and lógos meaning reason. i.e. two words I chose for my github username that I'm now stuck with.
-
-This is a collection of my ideas, stories, projects.
-
----
-## Me
-
-Written by **Ian Tay**. Software engineer in Seattle. Especially interested in embedded systems, lazy functional programming, donuts
+Written by **Ian Tay**. Software engineer in Seattle. Especially interested in embedded systems, lazy functional programming, donuts. This is a collection of my ideas, stories, projects.
 
 I'm on an exercise to gather personal feedback, if you have worked with me or known me for a while, give me feedback [here](https://airtable.com/shrJI8p0amSdZId0b).
 
 [Goodreads](https://www.goodreads.com/user/show/41100566-ian-tay) · [CV 📜](cv.pdf) · [github](https://github.com/chronologos) · [email (in base64)](https://play.golang.org/p/kI6deshYi5x) = `eWl5YW50YXlAZ21haWwuY29t` · [pgp](pgp.txt)
 
-## Lists
-
-Lists hold great insights about people - here are some of mine:
-
-[quotes](mylists/quotes)
+chronologos: From Ancient Greek khrónos meaning time and lógos meaning reason. i.e. two words I chose for my github username that I'm now stuck with.
