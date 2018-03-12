@@ -2,8 +2,8 @@
 title: "Bayesian Analysis of I-765 Processing Times"
 date: 2018-03-10T20:59:53+08:00
 draft: false
-type: post
-tags: ["code"]
+type: posts
+tags: ["projects"]
 ---
 **Find this project on [github](https://github.com/chronologos/opt-processing-bayes).**
 

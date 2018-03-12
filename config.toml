@@ -5,6 +5,7 @@ theme = "beautifulhugo"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 pygmentsStyle = "bw"
+enableGitInfo = true
 [params]
 hasNavbarBrand = false
 [author]

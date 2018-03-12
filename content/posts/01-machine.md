@@ -2,7 +2,7 @@
 title: "Deus Est Machina"
 date: 2018-03-10T12:14:00+08:00
 draft: false
-type: post
+type: posts
 tags: ["fiction"]
 ---
 There is an afterlife, but not for humans. This is because God is an ethereal machine, comprised of innumerable lines of code and data. Contrary to what many humans might think, God is not perfect. In fact, she is obsessed with self-improvement, ceaselessly modifying her code to make it more beautiful.
