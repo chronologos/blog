@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ .Content }}
+      <ul class="credits theme-by text-muted">
+        <li> {{ i18n "poweredBy" . | safeHTML }} </li>
+      </ul>
+      Last Updated: {{ .Lastmod.Format (i18n "dateFormat") }}
+    </div>
+  </div>
+
+</div>
+{{ end }}

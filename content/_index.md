@@ -8,10 +8,8 @@ menu:
     weight: 130
     url: "/"
 ---
-Written by **Ian Tay**. Software engineer in Seattle. Especially interested in embedded systems, lazy functional programming, donuts. This is a collection of my ideas, stories, projects.
+Written by **Ian Tay**. Software engineer in Seattle. Budding trickster, avid reader of books. This is a collection of my ideas, stories, projects.
 
-I'm on an exercise to gather personal feedback, if you have worked with me or known me for a while, give me feedback [here](https://airtable.com/shrJI8p0amSdZId0b).
+I'm on an exercise to gather personal feedback; give me feedback [here](https://airtable.com/shrJI8p0amSdZId0b).
 
-[Goodreads](https://www.goodreads.com/user/show/41100566-ian-tay) · [CV 📜](cv.pdf) · [github](https://github.com/chronologos) · [email (in base64)](https://play.golang.org/p/kI6deshYi5x) = `eWl5YW50YXlAZ21haWwuY29t` · [pgp](pgp.txt)
-
-chronologos: From Ancient Greek khrónos meaning time and lógos meaning reason. i.e. two words I chose for my github username that I'm now stuck with.
+[Goodreads](https://www.goodreads.com/user/show/41100566-ian-tay) · [CV 📜](cv.pdf) · [github](https://github.com/chronologos) · [email (in base64)](https://play.golang.org/p/kI6deshYi5x) = `eWl5YW50YXlAZ21haWwuY29t` · [keybase.io/iantay](https://keybase.io/iantay)
